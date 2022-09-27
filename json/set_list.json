@@ -1724,5 +1724,367 @@
         "sale",
         "2021",
         "3"
+    ],
+    "easter_chick_set_1": [
+        "sale",
+        "2021",
+        "4"
+    ],
+    "easter_chick_set_2": [
+        "sale",
+        "2021",
+        "4"
+    ],
+    "easter_sheep_set_1": [
+        "sale",
+        "2021",
+        "5"
+    ],
+    "easter_sheep_set_2": [
+        "sale",
+        "2021",
+        "5"
+    ],
+    "easter_hare_set_1": [
+        "sale",
+        "2021",
+        "6"
+    ],
+    "easter_hare_set_2": [
+        "sale",
+        "2021",
+        "6"
+    ],
+    "independence_day_2021_set_1": [
+        "independence",
+        "2021",
+        "1"
+    ],
+    "independence_day_2021_set_2": [
+        "independence",
+        "2021",
+        "1"
+    ],
+    "independence_day_2021_set_3": [
+        "independence",
+        "2021",
+        "2"
+    ],
+    "independence_day_2021_set_4": [
+        "independence",
+        "2021",
+        "2"
+    ],
+    "independence_day_2021_set_5": [
+        "independence",
+        "2021",
+        "3"
+    ],
+    "independence_day_2021_set_6": [
+        "independence",
+        "2021",
+        "3"
+    ],
+    "independence_day_2021_set_7": [
+        "independence",
+        "2021",
+        "4"
+    ],
+    "independence_day_2021_set_8": [
+        "independence",
+        "2021",
+        "4"
+    ],
+    "independence_day_2021_set_10": [
+        "independence",
+        "2021",
+        "4"
+    ],
+    "independence_day_2021_set_11": [
+        "independence",
+        "2021"
+    ],
+    "sale_august_2021_set_1": [
+        "sale",
+        "2021",
+        "7"
+    ],
+    "sale_august_2021_set_2": [
+        "sale",
+        "2021",
+        "7"
+    ],
+    "octoberfest_2021_set_1": [
+        "oktoberfest",
+        "2021",
+        "1"
+    ],
+    "octoberfest_2021_set_2": [
+        "oktoberfest",
+        "2021",
+        "1"
+    ],
+    "octoberfest_2021_set_3": [
+        "oktoberfest",
+        "2021",
+        "1"
+    ],
+    "octoberfest_2021_set_4": [
+        "oktoberfest",
+        "2021",
+        "2"
+    ],
+    "octoberfest_2021_set_5": [
+        "oktoberfest",
+        "2021",
+        "2"
+    ],
+    "octoberfest_2021_set_6": [
+        "oktoberfest",
+        "2021",
+        "3"
+    ],
+    "octoberfest_2021_set_7": [
+        "oktoberfest",
+        "2021",
+        "3"
+    ],
+    "octoberfest_2021_set_8": [
+        "oktoberfest",
+        "2021",
+        "4"
+    ],
+    "octoberfest_2021_set_9": [
+        "oktoberfest",
+        "2021",
+        "4"
+    ],
+    "octoberfest_2021_set_10": [
+        "oktoberfest",
+        "2021"
+    ],
+    "dod_2021_set_1": [
+        "dotd",
+        "2021",
+        "1"
+    ],
+    "dod_2021_set_2": [
+        "dotd",
+        "2021",
+        "1"
+    ],
+    "dod_2021_set_3": [
+        "dotd",
+        "2021",
+        "1"
+    ],
+    "dod_2021_set_4": [
+        "dotd",
+        "2021",
+        "2"
+    ],
+    "dod_2021_set_5": [
+        "dotd",
+        "2021",
+        "2"
+    ],
+    "dod_2021_set_6": [
+        "dotd",
+        "2021",
+        "2"
+    ],
+    "dod_2021_set_7": [
+        "dotd",
+        "2021",
+        "3"
+    ],
+    "dod_2021_set_9": [
+        "dotd",
+        "2021",
+        "3"
+    ],
+    "dod_2021_set_8": [
+        "dotd",
+        "2021",
+        "3"
+    ],
+    "holiday_set_2021_1": [
+        "xmas",
+        "2021",
+        "1"
+    ],
+    "holiday_set_2021_2": [
+        "xmas",
+        "2021",
+        "1"
+    ],
+    "holiday_set_2021_3": [
+        "xmas",
+        "2021",
+        "1"
+    ],
+    "valentine_2022_set_1": [
+        "valentine",
+        "2022",
+        "1"
+    ],
+    "valentine_2022_set_2": [
+        "valentine",
+        "2022",
+        "1"
+    ],
+    "valentine_2022_set_3": [
+        "valentine",
+        "2022",
+        "2"
+    ],
+    "valentine_2022_set_4": [
+        "valentine",
+        "2022",
+        "1"
+    ],
+    "easter_2022_set1": [
+        "easter",
+        "2022",
+        "1"
+    ],
+    "easter_2022_set2": [
+        "easter",
+        "2022",
+        "1"
+    ],
+    "easter_2022_set3": [
+        "easter",
+        "2022",
+        "1"
+    ],
+    "easter_2022_set4": [
+        "easter",
+        "2022",
+        "2"
+    ],
+    "easter_2022_set5": [
+        "easter",
+        "2022",
+        "2"
+    ],
+    "easter_2022_set6": [
+        "easter",
+        "2022",
+        "3"
+    ],
+    "easter_2022_set7": [
+        "easter",
+        "2022",
+        "3"
+    ],
+    "easter_2022_set8": [
+        "easter",
+        "2022",
+        "4"
+    ],
+    "easter_2022_set9": [
+        "easter",
+        "2022",
+        "4"
+    ],
+    "easter_2022_set13": [
+        "easter",
+        "2022"
+    ],
+    "independence_day_2022_set_1": [
+        "independence",
+        "2022",
+        "1"
+    ],
+    "independence_day_2022_set_2": [
+        "independence",
+        "2022",
+        "1"
+    ],
+    "independence_day_2022_set_3": [
+        "independence",
+        "2022",
+        "1"
+    ],
+    "independence_day_2022_set_4": [
+        "independence",
+        "2022",
+        "2"
+    ],
+    "independence_day_2022_set_5": [
+        "independence",
+        "2022",
+        "2"
+    ],
+    "independence_day_2022_set_7": [
+        "independence",
+        "2022",
+        "3"
+    ],
+    "independence_day_2022_set_8": [
+        "independence",
+        "2022",
+        "3"
+    ],
+    "independence_day_2022_set_10": [
+        "independence",
+        "2022",
+        "4"
+    ],
+    "independence_day_2022_set_11": [
+        "independence",
+        "2022",
+        "4"
+    ],
+    "independence_day_2022_set_13": [
+        "independence",
+        "2022",
+        "5"
+    ],
+    "oktoberfest_2022_set_1": [
+        "oktoberfest",
+        "2022",
+        "1"
+    ],
+    "oktoberfest_2022_set_2": [
+        "oktoberfest",
+        "2022",
+        "1"
+    ],
+    "oktoberfest_2022_set_4": [
+        "oktoberfest",
+        "2022",
+        "1"
+    ],
+    "oktoberfest_2022_set_3": [
+        "oktoberfest",
+        "2022",
+        "2"
+    ],
+    "oktoberfest_2022_set_5": [
+        "oktoberfest",
+        "2022",
+        "2"
+    ],
+    "oktoberfest_2022_set_6": [
+        "oktoberfest",
+        "2022",
+        "3"
+    ],
+    "oktoberfest_2022_set_7": [
+        "oktoberfest",
+        "2022",
+        "3"
+    ],
+    "oktoberfest_2022_set_8": [
+        "oktoberfest",
+        "2022",
+        "4"
+    ],
+    "oktoberfest_2022_set_9": [
+        "oktoberfest",
+        "2022",
+        "4"
     ]
 }
