@@ -77,7 +77,7 @@
                 minGame: "2.05",
                 maxGame: Game.version.toString(),
                 website: "https://greasyfork.org/scripts/373294-tw-inventory-reloaded",
-                base_url: "https://taurascript.github.io/TWIR/",
+                base_url: "https://auto66.github.io/TWIR/",
                 langs:
                 {
                     br:
@@ -3127,6 +3127,7 @@
                         A = (A = t > 0 ? Math.floor(e / t * 100) : 100) > 100 ? 100 : A;
                         var s = o.$("div.tw2gui_progressbar_contents", o.divMain),
                             l = o.$("div.tw2gui_progressbar_fill", o.divMain);
+                        let percent = Math.round((e / t) * 1000) / 10;
                         return s.empty(), isDefined(n) ? s.append($("<span>" + ($.isNumeric(n) && n >= 1e5 ? TWIR.Util.replSum(n) : $.isNumeric(n) ? format_number(Math.floor(n)) : n) + "</span>")) : s.append("<span>" + (e >= 1e5 ? TWIR.Util.replSum(e) : format_number(Math.floor(e))) + " / " + (t >= 1e5 ? TWIR.Util.replSum(t) : format_number(Math.floor(t))) + (r && t > 0 ? " (" + A + "%)" : "") + ` (${percent}%)</span>`), 0 === t && l.css("width", t + "%"), o.divMain[0].outerHTML
                     },
                     formatBonusInfo: function(e, t)
@@ -8599,8 +8600,8 @@
                             .on("input paste", TWIR.Util.delay(function(i)
                             {
                                 $(this)
-                                    .val() > 150 ? $(this)
-                                    .val(150) : $(this)
+                                    .val() > 250 ? $(this)
+                                    .val(250) : $(this)
                                     .val() < 1 && $(this)
                                     .val(1), t.options[e + "_level"] = parseInt($(this)
                                         .val()), t.handleLevel(e)
@@ -8916,8 +8917,8 @@
                             .on("input paste", TWIR.Util.delay(function(t)
                             {
                                 $(this)
-                                    .val() > 150 ? $(this)
-                                    .val(150) : $(this)
+                                    .val() > 250 ? $(this)
+                                    .val(250) : $(this)
                                     .val() < 1 && $(this)
                                     .val(1), e.options.level = parseInt($(this)
                                         .val())
