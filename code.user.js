@@ -72,11 +72,11 @@
             .addButton("OK")
             .show() : (window.TWIR_lang = {}, window.TWIR = {
                 script_name: "TW Inventory Reloaded",
-                version: "2.203.0",
-                author: "TauraScript, Jamza",
+                version: "2.203.1",
+                author: "auto66, TauraScript, Jamza",
                 minGame: "2.05",
                 maxGame: Game.version.toString(),
-                website: "https://greasyfork.org/scripts/373294-tw-inventory-reloaded",
+                website: "https://auto66.github.io/TWIR/README.md",
                 base_url: "https://auto66.github.io/TWIR/",
                 langs:
                 {
