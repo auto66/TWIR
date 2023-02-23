@@ -3127,7 +3127,7 @@
                         A = (A = t > 0 ? Math.floor(e / t * 100) : 100) > 100 ? 100 : A;
                         var s = o.$("div.tw2gui_progressbar_contents", o.divMain),
                             l = o.$("div.tw2gui_progressbar_fill", o.divMain);
-                        return s.empty(), isDefined(n) ? s.append($("<span>" + ($.isNumeric(n) && n >= 1e5 ? TWIR.Util.replSum(n) : $.isNumeric(n) ? format_number(Math.floor(n)) : n) + "</span>")) : s.append("<span>" + (e >= 1e5 ? TWIR.Util.replSum(e) : format_number(Math.floor(e))) + " / " + (t >= 1e5 ? TWIR.Util.replSum(t) : format_number(Math.floor(t))) + (r && t > 0 ? " (" + A + "%)" : "") + "</span>"), 0 === t && l.css("width", t + "%"), o.divMain[0].outerHTML
+                        return s.empty(), isDefined(n) ? s.append($("<span>" + ($.isNumeric(n) && n >= 1e5 ? TWIR.Util.replSum(n) : $.isNumeric(n) ? format_number(Math.floor(n)) : n) + "</span>")) : s.append("<span>" + (e >= 1e5 ? TWIR.Util.replSum(e) : format_number(Math.floor(e))) + " / " + (t >= 1e5 ? TWIR.Util.replSum(t) : format_number(Math.floor(t))) + (r && t > 0 ? " (" + A + "%)" : "") + ` (${percent}%)</span>`), 0 === t && l.css("width", t + "%"), o.divMain[0].outerHTML
                     },
                     formatBonusInfo: function(e, t)
                     {
