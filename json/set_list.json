@@ -1725,36 +1725,6 @@
         "2021",
         "3"
     ],
-    "easter_chick_set_1": [
-        "sale",
-        "2021",
-        "4"
-    ],
-    "easter_chick_set_2": [
-        "sale",
-        "2021",
-        "4"
-    ],
-    "easter_sheep_set_1": [
-        "sale",
-        "2021",
-        "5"
-    ],
-    "easter_sheep_set_2": [
-        "sale",
-        "2021",
-        "5"
-    ],
-    "easter_hare_set_1": [
-        "sale",
-        "2021",
-        "6"
-    ],
-    "easter_hare_set_2": [
-        "sale",
-        "2021",
-        "6"
-    ],
     "independence_day_2021_set_1": [
         "independence",
         "2021",
@@ -2166,5 +2136,65 @@
         "valentine",
         "2023",
         "2"
+    ],
+    "easter_2023_set1":  [
+        "easter",
+        "2023",
+        "1"
+    ],
+    "easter_2023_set2":  [
+        "easter",
+        "2023",
+        "1"
+    ],
+    "easter_2023_set3":  [
+        "easter",
+        "2023",
+        "1"
+    ],
+    "easter_2023_set4":  [
+        "easter",
+        "2023",
+        "2"
+    ],
+    "easter_2023_set5":  [
+        "easter",
+        "2023",
+        "2"
+    ],
+    "easter_2023_set6":  [
+        "easter",
+        "2023",
+        "2"
+    ],
+    "easter_2023_set7":  [
+        "easter",
+        "2023",
+        "3"
+    ],
+    "easter_2023_set8":  [
+        "easter",
+        "2023",
+        "3"
+    ],
+    "easter_2023_set9":  [
+        "easter",
+        "2023",
+        "3"
+    ],
+    "easter_2023_set10": [
+        "easter",
+        "2023",
+        "4"
+    ],
+    "easter_2023_set11": [
+        "easter",
+        "2023",
+        "4"
+    ],
+    "easter_2023_set12": [
+        "easter",
+        "2023",
+        "4"
     ]
 }
