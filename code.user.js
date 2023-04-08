@@ -31,20 +31,20 @@
 // @description:tr The-west için daha iyi envanter ve araçlar!
 
 // @author TauraScript, Jamza
-// @version 2.203.0
+// @version 2.203.1
 // @license GPL-3.0 http://www.gnu.org/licenses/gpl-3.0.txt
 
 // @include http*://*.the-west.*/game.php*
 // @include http*://*.the-west.*.*/game.php*
 // @exclude https://classic.the-west.net*
 
-// @icon https://taurascript.github.io/TWIR/docs/icons/image18.png
+// @icon https://auto66.github.io/TWIR/docs/icons/image18.png
 // @namespace https://greasyfork.org/cs/users/153384/
 // @grant none
 
-// @updateURL https://taurascript.github.io/TWIR/code.user.js
+// @updateURL https://auto66.github.io/TWIR/code.user.js
 // @downloadURL http://greasyfork.org/scripts/373294-tw-inventory-reloaded/code/TW%20Inventory%20Reloaded.user.js
-// @supportURL https://github.com/taurascript/TWIR/issues
+// @supportURL https://github.com/auto66/TWIR/issues
 // @homepage https://greasyfork.org/scripts/373294-tw-inventory-reloaded
 // @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=taurascript_public%40protonmail.com&item_name=TW+script&currency_code=EUR&source=url
 
@@ -1386,7 +1386,7 @@
                                     .select(), document.execCommand("copy"), t.remove()
                             });
                             $(a.getContentPane())
-                                .append('<div style="width: 600px; font-weight: bold;color: red; margin: 25px auto 0 auto;">Please report following errors at <a href="https://github.com/taurascript/TWIR/issues" target="_blank">github/issues</a>.</div>', $('<div style="width: 600px; margin: 30px auto 0 auto;"></div>')
+                                .append('<div style="width: 600px; font-weight: bold;color: red; margin: 25px auto 0 auto;">Please report following errors at <a href="https://github.com/auto66/TWIR/issues" target="_blank">github/issues</a>.</div>', $('<div style="width: 600px; margin: 30px auto 0 auto;"></div>')
                                     .append((new west.gui.Groupframe)
                                         .appendToContentPane($('<div style="height: 200px;"/>')
                                             .append(r.getMainDiv()))
