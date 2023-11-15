@@ -8142,7 +8142,7 @@
                                 if (e === a.length) ! function(e, t, i)
                                 {
                                     if ($.isEmptyObject(e)) return;
-                                    WearSet.setUpBonus(e.setBonuses), WearSet.setUpItems(e.setItems), WearSet.workPointBonus = e.workPointBonus;
+                                    WearSet.setUpItems(e.setItems), WearSet.workPointBonus = e.workPointBonus;
                                     for (var a = 0; a < i.length; a++) Wear.remove(i[a].type), "right_arm" == i[a].type && EventHandler.signal("character_weapon_changed", [i[a]]);
                                     for (var r = 0; r < t.length; r++) Wear.add(t[r].item_id), "right_arm" == t[r].type && EventHandler.signal("character_weapon_changed", [t[r]]);
                                     Bag.updateChanges(e.changes, "wear"), CharacterSkills.updateAllBonuspoints(e.bonus.allBonuspoints), Character.setSpeed(e.speed), Character.calcMaxHealth(), EventHandler.signal("health", [Character.health, Character.maxHealth]), EventHandler.signal("wear_changed", [
