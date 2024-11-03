@@ -2196,5 +2196,405 @@
         "easter",
         "2023",
         "4"
+    ],
+    "sale_june_2023_clothes": [
+        "sale",
+        "2023",
+        "1"
+    ],
+    "sale_june_2023_animal": [
+        "sale",
+        "2023",
+        "1"
+    ],
+    "sale_june_2023_weapon": [
+        "sale",
+        "2023",
+        "1"
+    ],
+    "independence_day_2023_set_1": [
+        "independence",
+        "2023",
+        "1"
+    ],
+    "independence_day_2023_set_2": [
+        "independence",
+        "2023",
+        "1"
+    ],
+    "independence_day_2023_set_3": [
+        "independence",
+        "2023",
+        "1"
+    ],
+    "independence_day_2023_set_4": [
+        "independence",
+        "2023",
+        "2"
+    ],
+    "independence_day_2023_set_5": [
+        "independence",
+        "2023",
+        "2"
+    ],
+    "independence_day_2023_set_7": [
+        "independence",
+        "2023",
+        "3"
+    ],
+    "independence_day_2023_set_8": [
+        "independence",
+        "2023",
+        "3"
+    ],
+    "independence_day_2023_set_10": [
+        "independence",
+        "2023",
+        "4"
+    ],
+    "independence_day_2023_set_11": [
+        "independence",
+        "2023",
+        "4"
+    ],
+    "oktoberfest_2023_set_1": [
+        "oktoberfest",
+        "2023",
+        "1"
+    ],
+    "oktoberfest_2023_set_2": [
+        "oktoberfest",
+        "2023",
+        "1"
+    ],
+    "oktoberfest_2023_set_3": [
+        "oktoberfest",
+        "2023",
+        "1"
+    ],
+    "oktoberfest_2023_set_4": [
+        "oktoberfest",
+        "2023",
+        "2"
+    ],
+    "oktoberfest_2023_set_5": [
+        "oktoberfest",
+        "2023",
+        "2"
+    ],
+    "oktoberfest_2023_set_6": [
+        "oktoberfest",
+        "2023",
+        "3"
+    ],
+    "oktoberfest_2023_set_7": [
+        "oktoberfest",
+        "2023",
+        "3"
+    ],
+    "oktoberfest_2023_set_8": [
+        "oktoberfest",
+        "2023",
+        "4"
+    ],
+    "oktoberfest_2023_set_9": [
+        "oktoberfest",
+        "2023",
+        "4"
+    ],
+    "dod_2023_set_1": [
+        "dotd",
+        "2023",
+        "1"
+    ],
+    "dod_2023_set_2": [
+        "dotd",
+        "2023",
+        "1"
+    ],
+    "dod_2023_set_3": [
+        "dotd",
+        "2023",
+        "1"
+    ],
+    "dod_2023_set_4": [
+        "dotd",
+        "2023",
+        "2"
+    ],
+    "dod_2023_set_5": [
+        "dotd",
+        "2023",
+        "2"
+    ],
+    "dod_2023_set_6": [
+        "dotd",
+        "2023",
+        "2"
+    ],
+    "dod_2023_set_7": [
+        "dotd",
+        "2023",
+        "3"
+    ],
+    "dod_2023_set_8": [
+        "dotd",
+        "2023",
+        "3"
+    ],
+    "dod_2023_set_9": [
+        "dotd",
+        "2023",
+        "3"
+    ],
+    "holiday_2023_set_1": [
+        "xmas",
+        "2023",
+        "1"
+    ],
+    "holiday_2023_set_2": [
+        "xmas",
+        "2023",
+        "1"
+    ],
+    "holiday_2023_set_3": [
+        "xmas",
+        "2023",
+        "1"
+    ],
+    "valentine_2024_set_2": [
+        "valentine",
+        "2024",
+        "1"
+    ],
+    "valentine_2024_set_3": [
+        "valentine",
+        "2024",
+        "1"
+    ],
+    "valentine_2024_set_4": [
+        "valentine",
+        "2024",
+        "1"
+    ],
+    "easter_2024_set1": [
+        "easter",
+        "2024",
+        "1"
+    ],
+    "easter_2024_set2": [
+        "easter",
+        "2024",
+        "1"
+    ],
+    "easter_2024_set3": [
+        "easter",
+        "2024",
+        "1"
+    ],
+    "easter_2024_set4": [
+        "easter",
+        "2024",
+        "2"
+    ],
+    "easter_2024_set6": [
+        "easter",
+        "2024",
+        "2"
+    ],
+    "easter_2024_set7": [
+        "easter",
+        "2024",
+        "3"
+    ],
+    "easter_2024_set9": [
+        "easter",
+        "2024",
+        "3"
+    ],
+    "easter_2024_set10": [
+        "easter",
+        "2024",
+        "4"
+    ],
+    "easter_2024_set12": [
+        "easter",
+        "2024",
+        "4"
+    ],
+    "easter_2024_set13": [
+        "easter",
+        "2024",
+        "5"
+    ],
+    "soccer_2024_clothes": [
+        "sale",
+        "2024",
+        "1"
+    ],
+    "soccer_2024_animal": [
+        "sale",
+        "2024",
+        "1"
+    ],
+    "soccer_2024_weapon": [
+        "sale",
+        "2024",
+        "1"
+    ],
+    "independence_day_2024_set_1": [
+        "independence",
+        "2024",
+        "1"
+    ],
+    "independence_day_2024_set_2": [
+        "independence",
+        "2024",
+        "1"
+    ],
+    "independence_day_2024_set_3": [
+        "independence",
+        "2024",
+        "1"
+    ],
+    "independence_day_2024_set_4": [
+        "independence",
+        "2024",
+        "2"
+    ],
+    "independence_day_2024_set_5": [
+        "independence",
+        "2024",
+        "2"
+    ],
+    "independence_day_2024_set_7": [
+        "independence",
+        "2024",
+        "3"
+    ],
+    "independence_day_2024_set_8": [
+        "independence",
+        "2024",
+        "3"
+    ],
+    "independence_day_2024_set_10": [
+        "independence",
+        "2024",
+        "4"
+    ],
+    "independence_day_2024_set_11": [
+        "independence",
+        "2024",
+        "4"
+    ],
+    "oktoberfest_2024_set_1": [
+        "oktoberfest",
+        "2024",
+        "1"
+    ],
+    "oktoberfest_2024_set_2": [
+        "oktoberfest",
+        "2024",
+        "1"
+    ],
+    "oktoberfest_2024_set_3": [
+        "oktoberfest",
+        "2024",
+        "1"
+    ],
+    "oktoberfest_2024_set_4": [
+        "oktoberfest",
+        "2024",
+        "2"
+    ],
+    "oktoberfest_2024_set_5": [
+        "oktoberfest",
+        "2024",
+        "2"
+    ],
+    "oktoberfest_2024_set_6": [
+        "oktoberfest",
+        "2024",
+        "2"
+    ],
+    "oktoberfest_2024_set_7": [
+        "oktoberfest",
+        "2024",
+        "3"
+    ],
+    "oktoberfest_2024_set_8": [
+        "oktoberfest",
+        "2024",
+        "3"
+    ],
+    "oktoberfest_2024_set_9": [
+        "oktoberfest",
+        "2024",
+        "3"
+    ],
+    "oktoberfest_2024_set_10": [
+        "oktoberfest",
+        "2024",
+        "4"
+    ],
+    "oktoberfest_2024_set_11": [
+        "oktoberfest",
+        "2024",
+        "4"
+    ],
+    "oktoberfest_2024_set_12": [
+        "oktoberfest",
+        "2024",
+        "4"
+    ],
+    "oktoberfest_2024_winner": [
+        "oktoberfest",
+        "2024",
+        "5"
+    ],
+    "dod_2024_set_1": [
+        "dotd",
+        "2024",
+        "1"
+    ],
+    "dod_2024_set_2": [
+        "dotd",
+        "2024",
+        "1"
+    ],
+    "dod_2024_set_3": [
+        "dotd",
+        "2024",
+        "1"
+    ],
+    "dod_2024_set_4": [
+        "dotd",
+        "2024",
+        "2"
+    ],
+    "dod_2024_set_5": [
+        "dotd",
+        "2024",
+        "2"
+    ],
+    "dod_2024_set_6": [
+        "dotd",
+        "2024",
+        "2"
+    ],
+    "dod_2024_set_7": [
+        "dotd",
+        "2024",
+        "3"
+    ],
+    "dod_2024_set_8": [
+        "dotd",
+        "2024",
+        "3"
+    ],
+    "dod_2024_set_9": [
+        "dotd",
+        "2024",
+        "3"
     ]
 }
